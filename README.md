@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+!(main)[https://github.com/Alchemist0541/event_booking_app/blob/main/main.png]
 
 This project is a starting point for a Flutter application.
 
